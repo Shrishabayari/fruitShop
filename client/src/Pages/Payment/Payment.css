@@ -1,0 +1,74 @@
+.container{
+    justify-content: center;
+    
+}
+
+.col{
+    display: flex;
+    gap: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+    
+}
+.pay form{
+background: lightcyan;
+}
+h1{
+    font-size: 50px;
+    color: red;
+}
+.titl{
+    margin-bottom: 0px;
+}
+.name{
+    font-size: 40px;
+    color: blue;
+}
+.payment-form{
+    border: 2px solid black;
+    height: 830px;
+    width: 1300px;
+    
+}
+.container form .submit_btn { 
+    width: 80%; 
+    height: 60px;
+    padding: 12px; 
+    font-size: 30px; 
+    background: rgb(1, 143, 34); 
+    color: #fff; 
+    margin-top: 5px; 
+    cursor: pointer; 
+    letter-spacing: 1px; 
+} 
+  
+.container form .submit_btn:hover { 
+    background: #3d17fb; 
+} 
+select{
+    height: 50px;
+    font-size: 20px;
+}
+
+  
+.success-message{
+    font-size: 30px;
+    height: 40px;
+    border: 1px solid black;
+    width: 6o0px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: rgb(24, 252, 3);
+}
+.sub{
+    display: flex;
+    flex-direction: row;
+}
+.pay{
+    display: flex;
+
+}
+.pay .im{
+    padding-top: 300px;
+    padding-left: 70px;
+}

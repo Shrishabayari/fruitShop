@@ -1,0 +1,25 @@
+div{
+    text-align: center;
+    font-weight: bolder;
+}
+.about h1{
+    font-size: 50px;
+    color: rgb(4, 4, 253);
+}
+.about h3{
+    font-size: 40px;
+    color: rgb(255, 0, 212);
+
+}
+.about h4{
+    font-size: 30px;
+
+}
+.about p{
+    font-size: 25px;
+    line-height: 75px;
+}
+.about-page{
+    background-image: url(i.jpeg);
+
+}

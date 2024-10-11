@@ -1,0 +1,12 @@
+.login-container{
+border: 3px solid black;
+    width: 550px;
+    height: 600px;
+    justify-content: center;
+    margin-left: 620px;
+    background:linear-gradient( 15deg , rgb(153, 153, 253) 10% , white 15% , rgb(227, 227, 253) 20% ,rgb(190, 190, 250) 45%, white 50%, rgb(184, 184, 252) 55%,rgb(227, 227, 248) 80%, white 85%, rgb(189, 189, 255) 90%);
+}
+form h2{
+    color: rgb(0, 17, 253);
+    font-size: 50px;
+}

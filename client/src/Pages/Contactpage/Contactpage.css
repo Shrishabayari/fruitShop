@@ -1,0 +1,11 @@
+.contact-container{
+    border: 3px solid black;
+    width: 600px;
+    height: 500px;
+    text-align: center;
+    margin-left: 600px;
+    background:linear-gradient(to right , rgb(252, 226, 226),rgb(202, 201, 201));
+}
+textarea{
+    width: 300px;
+}
